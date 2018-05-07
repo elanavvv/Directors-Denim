@@ -1,0 +1,86 @@
+/* -- TOP BAR -- */
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+}
+
+.product-title{
+	font-family: 'East Sea Dokdo', cursive;
+	font-size: 4.5rem;
+}
+
+.hero{
+
+  	background-image: "../img/hero.jpg" 90% no-repeat;
+  	background-size: cover;
+  	height: 30px;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  }
+
+.hero-section-text {
+    color: $white;
+    text-shadow: 1px 1px 2px $black;
+  }
+
+
+
+}
+
+.about{
+
+}
+
+.testimonials{
+
+}
+
+.top-bar {
+	background-color: #444D9D
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+
+	background-color: #444D9D
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover{
+	background-color: #444D9D
+}
+
+.top-bar .name h1{
+	font-family: 'East Sea Dokdo', cursive;
+	font-size: 900;
+	font-size: 2rem;
+}
+
+.top-bar-sectiomnn ul li > a {
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+	color: #fff;
+	background-color: #444D9D;
+	font-family: 'Open Sans', sans-serif;
+}
+
+footer h1{
+	color: #fff;
+	font-family: 'East Sea Dokdo', cursive;
+}
+
+footer a {
+	color: #fff;
+}
+
+
+
+
+
